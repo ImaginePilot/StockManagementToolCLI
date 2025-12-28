@@ -14,8 +14,8 @@
 3. Power on → Use credentials:  
    - **User**: `c43`
    - **Pass**: `123456`  
-4. Start postgres:
-  ```sudo su postgres (password: postgres)
+4. Start postgres (password: postgres):
+  ```sudo su postgres
      bash
      postgres
      /c mydb
