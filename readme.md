@@ -1,5 +1,5 @@
 ### 1️⃣ **Create empty folder & copy all 93 files**  
-→ Copy `vm/vm_separated.7z.001` → `vm_separated.7z.093` into a **new empty folder** (e.g. `C:\StockVM`)
+→ Copy `vm/vm_separated.7z.001` → `vm_separated.7z.333` into a **new empty folder** (e.g. `C:\StockVM`)
 
 ### 2️⃣ **Extract with 7-Zip**  
 - **Windows**: Right-click `001` file → `7-Zip > Extract Here`  
